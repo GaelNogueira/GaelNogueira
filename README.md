@@ -12,6 +12,7 @@ Meu nome é Thiago Nogueira, seja bem vindo!
   <img align="center" alt="Nogueira-PS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">
   <img align="center" alt="Nogueira-Premiere" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg">
   <img align="center" alt="Nogueira-Canva" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg">
+  <img align="right" alt="Nogueira-pic" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/Ken6Yg5n7bYStW4JYB/giphy.gif">
   
   
    
@@ -39,7 +40,7 @@ Meu nome é Thiago Nogueira, seja bem vindo!
   
 </div>
 
-<img align="right" alt="Nogueira-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
+
 
 
 **GaelNogueira/GaelNogueira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
